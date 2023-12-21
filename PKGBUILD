@@ -14,7 +14,7 @@ makedepends=('curl' 'icoutils' 'imagemagick' 'gendesk' 'msitools')
 source=("${pkgname}.sh"
         "${pkgname}-help.sh"
         "https://ltspice.analog.com/software/LTspice64.msi")
-sha256sums=('69080c30dee9c0141bbe04684c31f1896565778cbe3705cd4eb0996ed31d6c2e'
+sha256sums=('03e05039eb0e42a6f85e1f3dd00a3263c222cad6123698cac32f067c3ea8619f'
             '25fdb185aea9752b1739d5787f9c180ddd5be728f25ebb6877075be272e79195'
             '6718abbd4f4faefe375c579de775151525a9a1cca821041796588a6ec05a5c99')
 

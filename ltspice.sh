@@ -1,8 +1,8 @@
 #!/bin/sh
 
 CONFIG_DIR="${XDG_CONFIG_HOME:-$HOME/.config}/ltspice"
-if [ ! -d "$HOME"/.ltspice ] ; then
-   mkdir -p "$HOME"/.ltspice
+if [ ! -d "$HOME"/.local/share/wineprefixes/ltspice ] ; then
+   mkdir -p "$HOME"/.local/share/wineprefixes/ltspice
 fi
 if [ ! -d $CONFIG_DIR ]; then
    mkdir -p $CONFIG_DIR
