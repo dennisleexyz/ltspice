@@ -1,3 +1,4 @@
 *.tar.zst
 pkg/
 src/
+LTspice64.msi
